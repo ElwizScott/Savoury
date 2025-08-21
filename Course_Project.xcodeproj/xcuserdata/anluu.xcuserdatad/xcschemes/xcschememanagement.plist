@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>JWTDecode (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>JWTDecode (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>JWTDecode (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>RecipeWidgetExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Savoury.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0DD6F6D02C79D1540036E36A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6A17A5A2CB234BE0061751D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6A17A672CB24D5F0061751D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6A17A742CB24DDB0061751D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6A17A812CB24E420061751D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C6A17A922CB25A4A0061751D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

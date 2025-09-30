@@ -61,3 +61,9 @@ It demonstrates **mobile app design**, **Core ML integration**, and **user-centr
 ## 📜 License
 This project is for educational purposes. Feel free to fork and explore, but please credit the original author when reusing code.  
 
+---
+
+## 📌 Note
+This repository is a **copied and maintained version** of the original repo:  
+👉 [Original Savoury Repository](https://github.com/rmit-iPSE-2024-s2/a2-s3926655-s3878260) 
+My sID is s3878260.

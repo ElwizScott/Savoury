@@ -29,13 +29,13 @@ It combines **Core ML image recognition** with a clean **SwiftUI interface**, ma
 ---
 
 ## 📂 Project Structure
-Savoury/
-├─ Models/ # Data models
-├─ Views/ # SwiftUI screens
-├─ ViewModels/ # State management
-├─ Assets/ # Images, icons, colors
-├─ Resources/ # Core ML models, API helpers
-└─ README.md
+> Savoury/  
+> ├ Models/ # Data models  
+> ├─ Views/ # SwiftUI screens  
+> ├─ ViewModels/ # State management  
+> ├─ Assets/ # Images, icons, colors  
+> ├─ Resources/ # Core ML models, API helpers  
+> └─ README.md  
 
 ---
 
